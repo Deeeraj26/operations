@@ -1,5 +1,5 @@
 # operations
-a=2
-b=3
+a=8
+b=6
 c=a-b
 print(c)

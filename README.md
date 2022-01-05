@@ -1,3 +1,2 @@
 # operations
-c=a-b
-print(c)
+this is deeraj
